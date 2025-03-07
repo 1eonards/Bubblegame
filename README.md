@@ -1,1 +1,1 @@
-# bubblegame-client
+# bubblegame
